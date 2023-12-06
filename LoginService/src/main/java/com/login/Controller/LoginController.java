@@ -14,7 +14,6 @@ import jakarta.servlet.http.HttpServletRequest;
 @Controller
 public class LoginController {
 
-	//Yash
 	@Autowired
 	LoginService loginService;
 
